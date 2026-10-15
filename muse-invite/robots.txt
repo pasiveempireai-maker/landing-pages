@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://free-muse-tokens.vercel.app/sitemap.xml
